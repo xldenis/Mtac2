@@ -13,5 +13,3 @@ Notation:
 Vernacular:
 
 - `Mtac Do` now accepts its argument without parentheses.
-
-
