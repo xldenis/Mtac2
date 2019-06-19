@@ -2,6 +2,8 @@ open Constrs
 open Pp
 open Ltac_pretype
 
+open Unicoq
+
 type mrun_arg_type =
   | PolyProgram of (Univ.AUContext.t * EConstr.types)
   | MonoProgram of (EConstr.types)

@@ -18,6 +18,7 @@ open Evarconv
 
 open Constrs
 
+open Unicoq
 open CClosure_copy
 
 (* warning 40 is about picking a constructor name from a module that is not in scope *)
